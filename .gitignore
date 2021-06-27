@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Repository Specific Files
+data/PollutionData/raw/
+
 # C extensions
 *.so
 
