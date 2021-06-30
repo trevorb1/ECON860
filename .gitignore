@@ -5,6 +5,7 @@ __pycache__/
 
 # Repository Specific Files
 data/PollutionData/raw/
+data/*csv
 
 # C extensions
 *.so
