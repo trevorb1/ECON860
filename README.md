@@ -32,3 +32,7 @@ Environmental Economics
 [Washington, DC (Capital Bikeshare)](https://www.capitalbikeshare.com/system-data)
 
 ### Script
+
+
+## Weather Data
+Hourly weather data was difficult to find for free. Instead, daily Boston data was retrieved from [this source](https://www.usclimatedata.com/climate/boston/massachusetts/united-states/usma0046) and daily Portland data was retireved from [this source](https://www.usclimatedata.com/climate/portland/oregon/united-states/usor0275)
